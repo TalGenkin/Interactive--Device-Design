@@ -1,2 +1,5 @@
 # Interactive--Device-Design
-All course assignments will be here
+
+##Lab 1##
+
+https://github.com/TalGenkin/IDD-Fa18-Lab1
