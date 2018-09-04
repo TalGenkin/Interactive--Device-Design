@@ -2,4 +2,4 @@
 
 **Lab 1**
 
-https://github.com/TalGenkin/IDD-Fa18-Lab1
+[a link](https://github.com/TalGenkin/IDD-Fa18-Lab1)
