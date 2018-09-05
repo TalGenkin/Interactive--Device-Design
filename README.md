@@ -6,4 +6,4 @@ Tal Genkin
 
 [Frankenlight](https://github.com/TalGenkin/IDD-Fa18-Lab1)
 
-**Assignment 1**
+**Lab Prep 2**
