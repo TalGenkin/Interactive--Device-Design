@@ -2,13 +2,11 @@
 
 Tal Genkin, Cornell Tech
 
-**Lab 1**
+**Labs**
 
-[Frankenlight](https://github.com/TalGenkin/IDD-Fa18-Lab1)
+[Lab 1](https://github.com/TalGenkin/IDD-Fa18-Lab1)
 
-**Lab Prep 2**
+[Lab 2](https://github.com/TalGenkin/IDD-Fa18-Lab2)
 
+**Lab Prep**
 
-**Lab 2**
-
-[Timer](https://github.com/TalGenkin/IDD-Fa18-Lab2)
