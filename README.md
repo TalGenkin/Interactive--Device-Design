@@ -10,3 +10,4 @@ Tal Genkin, Cornell Tech
 
 **Lab Prep**
 
+[Lab 2 Prep](https://github.com/TalGenkin/Interactive--Device-Design/blob/master/Lab%202%20Prep.md)
