@@ -1,6 +1,6 @@
 # Interactive--Device-Design
 
-Tal Genkin
+Tal Genkin, Cornell Tech
 
 **Lab 1**
 
