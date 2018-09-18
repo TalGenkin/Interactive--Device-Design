@@ -8,6 +8,8 @@ Tal Genkin, Cornell Tech
 
 [Lab 2](https://github.com/TalGenkin/IDD-Fa18-Lab2)
 
+[Lab 3](https://github.com/TalGenkin/IDD-Fa18-Lab3)
+
 **Lab Prep**
 
 [Lab 2 Prep](https://github.com/TalGenkin/Interactive--Device-Design/blob/master/Lab%202%20Prep.md)
