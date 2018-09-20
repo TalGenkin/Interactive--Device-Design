@@ -16,4 +16,4 @@ Tal Genkin, Cornell Tech
 
 [Lab 3 Prep](https://github.com/TalGenkin/Interactive--Device-Design/blob/master/Lab3Prep.md)
 
-[Lab 4 Prep]
+[Lab 4 Prep](https://github.com/TalGenkin/Interactive--Device-Design/blob/master/LadPrep4.md)
