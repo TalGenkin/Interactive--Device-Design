@@ -2,6 +2,5 @@
 
 ![The Arduino](PreLab7.JPG)
 
-
-Also, the code was complied (but due to problems with the USB cable, it could not be uploaded):
-![HelloYou code](HelloYouCode.png)
+In the HelloYou.ino code, every time I press the button (with the Srial Monitor open), it shows 'light' and every time I take my finger out of the button, it says 'dark':
+![HelloYou code](lightDarkButton.png)
